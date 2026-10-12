@@ -66,3 +66,8 @@ MIT License — Copyright (c) 2026 HackerX Official. See [LICENSE](LICENSE).
 ---
 
 **HackerX Official** — Open Source Cybersecurity Tools
+
+## License
+
+Licensed under the [HackerX License](./LICENSE). Redistributions must retain copyright,
+license text, and [NOTICE](./NOTICE) attribution per the license terms.
