@@ -59,13 +59,9 @@ unlock-pdf
 - Optional: `brew install qpdf` for faster decrypt.  
 - Intended for recovering access to PDFs you own or are authorized to unlock.
 
-## License
+## Ethics
 
-MIT License — Copyright (c) 2026 HackerX Official. See [LICENSE](LICENSE).
-
----
-
-**HackerX Official** — Open Source Cybersecurity Tools
+Use only on systems and content you are **authorized** to access. See [SECURITY.md](./SECURITY.md).
 
 ## License
 

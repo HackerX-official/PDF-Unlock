@@ -8,7 +8,7 @@ version = "1.0.0"
 description = "Recover forgotten PDF passwords and write decrypted copies."
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
+license = { text = "HackerX License" }
 authors = [
   { name = "HackerX Official", email = "hackerx.offical@gmail.com" },
 ]
