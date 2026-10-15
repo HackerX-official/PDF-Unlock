@@ -19,9 +19,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/HackerX-offical/PDF-Unlock"
-Repository = "https://github.com/HackerX-offical/PDF-Unlock"
-Issues = "https://github.com/HackerX-offical/PDF-Unlock/issues"
+Homepage = "https://github.com/HackerX-official/PDF-Unlock"
+Repository = "https://github.com/HackerX-official/PDF-Unlock"
+Issues = "https://github.com/HackerX-official/PDF-Unlock/issues"
 
 [project.scripts]
 unlock-pdf = "pdf_unlock.cli:main"

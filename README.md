@@ -15,7 +15,7 @@ Users lose passwords on their own documents. This package automates ordered atta
 ## Install
 
 ```bash
-git clone https://github.com/HackerX-offical/PDF-Unlock.git
+git clone https://github.com/HackerX-official/PDF-Unlock.git
 cd PDF-Unlock
 python3 -m venv .venv && source .venv/bin/activate && pip install -e .
 ```
